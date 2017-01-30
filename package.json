@@ -1,5 +1,5 @@
 {
-  "name": "cURL Prerender",
+  "name": "cURL-Prerender",
   "version": "1.0.0",
   "description": "Batch recache an array of URLs on Prerender.io, a service to service static HTML to search engines and social networks.",
   "main": "index.js",
