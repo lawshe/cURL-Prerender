@@ -1,0 +1,18 @@
+{
+  "name": "cURL Prerender",
+  "version": "1.0.0",
+  "description": "Batch recache an array of URLs on Prerender.io, a service to service static HTML to search engines and social networks.",
+  "main": "index.js",
+  "dependencies": {
+    "curlrequest": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "scripts" : {
+     "start" :  "node index.js"
+  }
+}
